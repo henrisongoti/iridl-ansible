@@ -1,0 +1,30 @@
+{
+ "collection_info": {
+  "namespace": "iridl",
+  "name": "iridl",
+  "version": "0.0.0",
+  "authors": [
+   "IRI Data Library Team <help@iri.columbia.edu>"
+  ],
+  "readme": "README.md",
+  "tags": [],
+  "description": "Tools for installing and maintaining a server that runs the IRI Data Library software",
+  "license": [
+   "MIT"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "https://github.com/iridl/iridl-ansible",
+  "documentation": null,
+  "homepage": null,
+  "issues": null
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "baeb7b296635a2b387940c82f3c3c87c1a5770b16a66b8d1f569bdc7dd4602c4",
+  "format": 1
+ },
+ "format": 1
+}

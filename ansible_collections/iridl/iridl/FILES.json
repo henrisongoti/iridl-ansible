@@ -1,0 +1,187 @@
+{
+ "files": [
+  {
+   "name": ".",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "README.md",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "febdc078595204bb0f2ba545f0c650bcc9981b0bb1dc7bdb605116e6eccf9d48",
+   "format": 1
+  },
+  {
+   "name": "example",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "example/ansible.cfg",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "b22c590cb74abce043f1eee13e6d89c8cb9002769c555a2576fbb2e60902bf4e",
+   "format": 1
+  },
+  {
+   "name": "example/inventory.cfg",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "a1bf97021ee7ed98c3963cfc83544ca828c49c73875b9924b7602d7952756d07",
+   "format": 1
+  },
+  {
+   "name": "example/playbook.yaml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "863310df7e8009561adbb2a48b218378a11baea833b1996e3919ade3df90aa03",
+   "format": 1
+  },
+  {
+   "name": "example/secrets.yaml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "ff861b5df7abab271323f754c9bccb5f019f295c21a6c209d793b401d5d91090",
+   "format": 1
+  },
+  {
+   "name": "roles",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/iridl",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/defaults",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/defaults/main.yaml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "a5de91b5ee393e8bf7f3f6a21fc2f24c8dd649627a62390c6b7688b138a13812",
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/handlers",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/handlers/main.yaml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "315a5c3aae74eca29ba2bfde5e884dc55cfb5071899a2c8a4a72ea8a78800ab7",
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/tasks",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/tasks/main.yaml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "eed3d9914eb635299031fce1026b8eb55a31bbefba38086dd5994b2a540ea0e1",
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/templates",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/templates/chrony.conf",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "0f470c84ae5b94b5abf56c6639c4fc4898d2661b6b15ceea89fe9bd79ef8ae50",
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/templates/docker-compose.yaml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "743c22fdfb4dce6582cdde6994861bfd626a86aaf2beb4c7eb0ebf5d254177f8",
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/templates/ingrid-localdefs.tex",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "62ca4763b68e62792898c2eed0966b6e383157f923ce657341f06ca8acd50f64",
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/templates/postfix",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/templates/postfix/aliases",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "07a0e268e2714c797fe41af272c3c9c1889ae5f8dba6f0c179c0ba3514c2b522",
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/templates/postfix/main.cf",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "70f33af24960b80c77537744ba3353a03dc226b25f48596827501d729c0aab6d",
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/templates/squid.conf",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "668a85edc2db8a7684ccf817e06d5d9624eaf1ab92373da465d6152606b82acc",
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/templates/update_datalib",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "5eb4bf2bfa06c356c9d455924fc166422b19dd3a17b2a21501c43e76b2636310",
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/vars",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/iridl/vars/main.yaml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "6708f8c80647f6324a551e9007ebb3b8b41fd860200a11671724fd156b2c25c4",
+   "format": 1
+  }
+ ],
+ "format": 1
+}
